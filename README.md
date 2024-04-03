@@ -1,1 +1,1 @@
-# Simplotel_assignment.github.io
+"# Simplotel_assignment" 
